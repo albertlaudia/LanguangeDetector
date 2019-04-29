@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DocumentTool": {
+      "commandName": "Project",
+      "commandLineArgs": "--path \"C:\\Users\\alber\\OneDrive - Automation Anywhere\\Tools\\DocumentSample\\EnglishSample.pdf\""
+    }
+  }
+}
